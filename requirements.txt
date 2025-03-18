@@ -137,7 +137,7 @@ numba-cuda==0.2.0
 propcache==0.3.0
 httplib2==0.22.0
 datascience==0.17.6
-numpy==1.26.4
+numpy==1.26.3
 papermill==2.6.0
 pycuda==2025.1
 imutils==0.5.4
